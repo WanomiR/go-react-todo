@@ -3,7 +3,7 @@ To do list application build with React TS and Go
 
 ### Initialize Go app
 ```bash
-go mod init github/com/wanomir/go-react-todo
+go mod init github.com/wanomir/go-react-todo
 ```
 
 ### Install Fiber v2
